@@ -76,7 +76,7 @@ The dashboard provides a centralized view of key business indicators, helping st
 
 ### Restaurant Dashboard
 
-![Restaurant Dashboard](Restaurant_Dashboard.png)
+![Restaurant Dashboard](Restaurant_dashboard.png)
 
 ---
 
